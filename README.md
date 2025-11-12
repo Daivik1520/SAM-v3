@@ -2,12 +2,12 @@
 
 <!-- Animated Header -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=SAM%20v2&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Voice-Controlled%20Windows%20AI%20Assistant&descAlignY=51&descAlign=50">
-  <img alt="SAM v2 Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=SAM%20v2&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Voice-Controlled%20Windows%20AI%20Assistant&descAlignY=51&descAlign=50">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=SAM%20v3&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Voice-Controlled%20Windows%20AI%20Assistant&descAlignY=51&descAlign=50">
+  <img alt="SAM v3 Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=SAM%20v3&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Voice-Controlled%20Windows%20AI%20Assistant&descAlignY=51&descAlign=50">
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=🎤+Voice+Controlled+Assistant;💻+Windows+System+Integration;🤖+AI-Powered+Conversations;🌌+Smart+Home+Ready;🚀+Desktop+Automation" alt="SAM v2 Features" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=🎤+Voice+Controlled+Assistant;💻+Windows+System+Integration;🤖+AI-Powered+Conversations;🌌+Smart+Home+Ready;🚀+Desktop+Automation" alt="SAM v3 Features" />
 </p>
 
 <!-- Beautiful Badges -->
@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Daivik1520/SAM-v2?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Daivik1520/SAM-v2?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Daivik1520/SAM-v2?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=red">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Daivik1520/SAM-v3?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Daivik1520/SAM-v3?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Daivik1520/SAM-v3?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=red">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
 </p>
 
@@ -39,9 +39,9 @@
 
 </div>
 
-## 🎆 **Meet SAM v2**
+## 🎆 **Meet SAM v3**
 
-**SAM v2** is your **intelligent voice-controlled Windows assistant** that seamlessly integrates with your desktop environment. Say goodbye to manual system controls and hello to natural language automation!
+**SAM v3** is your **intelligent voice-controlled Windows assistant** that seamlessly integrates with your desktop environment. Say goodbye to manual system controls and hello to natural language automation!
 
 > 🎤 *"Hey SAM, set volume to 50% and switch to extend display"* → **Done instantly!**
 
@@ -132,8 +132,8 @@
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/Daivik1520/SAM-v2.git
-cd SAM-v2
+git clone https://github.com/Daivik1520/SAM-v3.git
+cd SAM-v3
 
 # 2️⃣ Create virtual environment
 python -m venv .venv
@@ -147,10 +147,10 @@ python -m venv .venv
 # 4️⃣ Install dependencies
 pip install -r requirements.txt
 
-# 5️⃣ Run SAM v2
+# 5️⃣ Run SAM v3
 python SAM.py
 
-# 🎉 SAM v2 is now running!
+# 🎉 SAM v3 is now running!
 ```
 
 **First Run Setup:**
@@ -282,7 +282,7 @@ python SAM.py
 <summary><b>📁 Project Structure</b></summary>
 
 ```
-SAM-v2/
+SAM-v3/
 ├── 🔥 SAM.py                    # Main entry point
 ├── 🚀 SAM_Enhanced.py           # Enhanced features
 ├── 📁 core/
@@ -454,7 +454,7 @@ UI_PREFERENCES = {
 # Solution: Run as Administrator
 1. Right-click Command Prompt/PowerShell
 2. Select "Run as Administrator"
-3. Navigate to SAM-v2 directory
+3. Navigate to SAM-v3 directory
 4. Run: python SAM.py
 ```
 
@@ -474,7 +474,7 @@ UI_PREFERENCES = {
 # Solution: Set default device
 1. Right-click sound icon → "Open Sound settings"
 2. Choose correct output device
-3. Restart SAM v2
+3. Restart SAM v3
 ```
 
 ### Missing Files Warnings
@@ -553,9 +553,9 @@ UI_PREFERENCES = {
 
 <div align="center">
 
-### **Join the SAM v2 Community!**
+### **Join the SAM v3 Community!**
 
-<img src="https://contrib.rocks/image?repo=Daivik1520/SAM-v2" />
+<img src="https://contrib.rocks/image?repo=Daivik1520/SAM-v3" />
 
 **We welcome contributors of all skill levels! 💙**
 
@@ -577,8 +577,8 @@ UI_PREFERENCES = {
 ```bash
 # 1️⃣ Fork the repository on GitHub
 # 2️⃣ Clone your fork
-git clone https://github.com/YOUR_USERNAME/SAM-v2.git
-cd SAM-v2
+git clone https://github.com/YOUR_USERNAME/SAM-v3.git
+cd SAM-v3
 
 # 3️⃣ Create development branch
 git checkout -b feature/amazing-feature
@@ -624,7 +624,7 @@ git push origin feature/amazing-feature
 <img src="https://github.com/Daivik1520.png" width="150" style="border-radius: 50%;">
 
 ### **Daivik Reddy**
-*Creator of SAM v2*
+*Creator of SAM v3*
 
 **🎓 AI Enthusiast | 💻 Python Developer | 🎤 Voice Technology Pioneer**
 
@@ -706,28 +706,28 @@ Conditions: License and copyright notice
 
 ### **🌟 Show Your Support**
 
-<a href="https://github.com/Daivik1520/SAM-v2/stargazers">
+<a href="https://github.com/Daivik1520/SAM-v3/stargazers">
   <img src="https://img.shields.io/badge/⭐_Star_on_GitHub-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
 </a>
-<a href="https://github.com/Daivik1520/SAM-v2/fork">
+<a href="https://github.com/Daivik1520/SAM-v3/fork">
   <img src="https://img.shields.io/badge/🍴_Fork_Repository-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=black">
 </a>
-<a href="https://twitter.com/intent/tweet?text=Check%20out%20SAM%20v2%20-%20An%20amazing%20voice-controlled%20Windows%20assistant!&url=https://github.com/Daivik1520/SAM-v2">
+<a href="https://twitter.com/intent/tweet?text=Check%20out%20SAM%20v3%20-%20An%20amazing%20voice-controlled%20Windows%20assistant!&url=https://github.com/Daivik1520/SAM-v3">
   <img src="https://img.shields.io/badge/📢_Share_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
 ### **📊 Repository Stats**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daivik1520&repo=SAM-v2&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Daivik1520&repo=SAM-v3&theme=tokyonight&hide_border=true">
 
 ---
 
 **🎤 Built with passion by [Daivik Reddy](https://github.com/Daivik1520)**
 
-*Last Updated: November 2, 2025 | Version: 2.0.0*
+*Last Updated: November 2, 2025 | Version: 3.0.0*
 
 ### **🔗 Quick Links**
 
-[Repository](https://github.com/Daivik1520/SAM-v2) • [Issues](https://github.com/Daivik1520/SAM-v2/issues) • [Discussions](https://github.com/Daivik1520/SAM-v2/discussions) • [Releases](https://github.com/Daivik1520/SAM-v2/releases)
+[Repository](https://github.com/Daivik1520/SAM-v3) • [Issues](https://github.com/Daivik1520/SAM-v3/issues) • [Discussions](https://github.com/Daivik1520/SAM-v3/discussions) • [Releases](https://github.com/Daivik1520/SAM-v3/releases)
 
 </div>
